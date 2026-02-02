@@ -11,11 +11,17 @@ For system size `L = 25`, we construct the Krylov subspace generated from the NÃ
 
 via repeated application of the Hamiltonian. The resulting subspace has dimension **14**, which is much smaller than the full Hilbert space.
 
-## Results
+![Scar score versus energy](figures/scar_score_vs_energy.png)
 
-- **Figure 1:** Scar score versus energy  
-- **Figure 2:** Histogram of scar scores  
-- **Figure 3:** Sorted scar scores  
+*Figure 1: Scar score versus energy.*
+
+![Histogram of scar scores](figures/scar_score_histogram.png)
+
+*Figure 2: Histogram of scar scores.*
+
+![Sorted scar scores](figures/sorted_scar_scores.png)
+
+*Figure 3: Sorted scar scores.*
 
 > *(Figures can be added using standard GitHub image syntax if needed.)*
 
