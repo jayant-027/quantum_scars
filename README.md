@@ -13,17 +13,9 @@ via repeated application of the Hamiltonian. The resulting subspace has dimensio
 
 ![Scar score versus energy](figures/scar_score_vs_energy.png)
 
-*Figure 1: Scar score versus energy.*
-
 ![Histogram of scar scores](figures/scar_score_histogram.png)
 
-*Figure 2: Histogram of scar scores.*
-
 ![Sorted scar scores](figures/sorted_scar_scores.png)
-
-*Figure 3: Sorted scar scores.*
-
-> *(Figures can be added using standard GitHub image syntax if needed.)*
 
 ### Most Scarred Eigenstates
 
